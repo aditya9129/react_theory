@@ -192,3 +192,6 @@ Parcel's default directory for your output is named dist . The --dist-dir public
 ## Q: What is `browserlists`?
 
 A: Browserslist defines and shares the list of target browsers between various frontend build tools.
+##
+- Read about: `^-caret` and `~-tilde`
+- React about Script types in html(MDN Docs)
