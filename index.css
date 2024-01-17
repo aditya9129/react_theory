@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/*
+{
+    margin: 0;
+    padding: 0;
+    /* background-color: black;
+    color: pink; 
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid black;
+}
+.nav-items{
+    padding: 0px 20px;
+}
+.nav-items>ul{
+    display: flex;
+}
+.nav-items>ul>li{
+    list-style: none;
+    padding: 20px 20px; 
+    margin: 10px;
+    font-size: 24px;
+}
+.logo{
+    width: 100px;   
+}
+.res-card{
+    border:1px solid black;
+    height: 350px;
+    width: 200px;
+    background-color: orange;
+    padding: 5px;
+    margin: 8px;
+}
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+.res-card:hover{
+    border: 2px solid black;
+    cursor: pointer;
+}
+.card-img{
+    width: 100%;
+    padding: px;
+    height: 200px;
+}
+.cusines{
+    width: 100%;
+
+}
+.filter-btn{
+    margin: 5px;
+    padding: 5px;
+    background-color: green;
+    cursor: pointer;
+}
+.shimmer-cont{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+.shimmer-card{
+    margin: 10px;
+    height: 350px;
+    width: 200px;
+    background-color:#f0f0f0;
+}
+.login{
+    margin-top: 10px;
+    padding: 5px;
+    width: 50px;
+    height: 80px;
+}
+.filter{
+    display: flex;
+}
+.search{
+    display: flex;
+}
+.search-btn{
+    margin: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+.search-input{
+    margin: 5px;
+    padding: 5px;
+    
+}
+.about{
+border: 1px solid black;
+padding: 5px;
+margin: 10px;
+}
+*/
